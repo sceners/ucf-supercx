@@ -1,4 +1,4 @@
-# SuperCX v2.COM Files Unpacker.
+# SuperCX COM Files Unpacker.
 
 #### Written in November 1994.
 
